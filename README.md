@@ -1,0 +1,1 @@
+# Repositório para anotações do livro "Hands on Machine Learning With Scikit-Learn and TensorFlow" 
